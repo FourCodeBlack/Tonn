@@ -8,7 +8,7 @@ for i in arr:
 
 
 
-    for i in (0,3):
+    for i in range(0,3):
         print('x')
-        for j in (0, 3):
+        for j in range(0, 3):
             print('z')
